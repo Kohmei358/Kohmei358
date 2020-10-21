@@ -33,9 +33,8 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Kohmei358">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohmei358&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohmei358&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,7 +43,7 @@
 
 <p align="center">
 <a href="https://www.kohmeik.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kohmeik.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kohmei-kadoya-78363b18b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kohmei%20Kadoya-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kohmei-kadoya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kohmei%20Kadoya-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kkadoya@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-kkadoya@wpi.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
