@@ -34,7 +34,7 @@
 <br/>
 
 <a href="https://github.com/Kohmei358">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohmei358&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohmei358&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
 <br/>
