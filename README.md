@@ -30,6 +30,10 @@
 - 🖥 &nbsp;
   ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
   ![FCPX](https://img.shields.io/badge/-Final%20Cut%20Pro%20X-333333?style=flat&logo=apple)
+  ![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat)
+  ![PTC Creo](https://img.shields.io/badge/-PTC%20Creo-333333?style=flat)
+  ![Open CV](https://img.shields.io/badge/-Open%20CV-333333?style=flat)
+  ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat)
 
 <br/>
 
